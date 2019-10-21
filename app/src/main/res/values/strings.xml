@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MoneyRate</string>
+    <string name="str1">Input RMB</string>
+    <string name="str2">Hello</string>
+    <string name="str3">DOLLAR</string>
+    <string name="str4">EURO</string>
+    <string name="str5">WON</string>
+    <string name="str6">config</string>
+    <string name="str7">dollar rate:</string>
+    <string name="str8">euro rate:</string>
+    <string name="str9">won rate:</string>
+    <string name="str10">save</string>
+    <string name="str11">Add</string>
+    <string name="str12">OpenList</string>
+    <string name="rmb_hint_label">Input RMB</string>
+    <string name="str13">Calculate</string>
+    <string name="helloworld">Hello</string>
+    <string name="rdo_home_label">首页</string>
+    <string name="rdo_func_label">功能</string>
+    <string name="rdo_setting_label">设置</string>
+</resources>

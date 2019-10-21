@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/rate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/str1"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/str2"
+        android:textSize="35sp"
+        android:gravity="center"
+        />
+
+    <Button
+        android:id="@+id/dollar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/str3"
+        android:textSize="25sp"
+        android:layout_marginTop="10dp"
+        />
+
+    <Button
+        android:id="@+id/euro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/str4"
+        android:textSize="25sp"
+        android:layout_marginTop="10dp"
+        />
+
+    <Button
+        android:id="@+id/won"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/str5"
+        android:textSize="25sp"
+        android:layout_marginTop="10dp"
+        />
+
+    <Button
+        android:id="@+id/config"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/str6"
+        android:textSize="25sp"
+        android:layout_marginTop="10dp"
+        />
+
+</LinearLayout>
